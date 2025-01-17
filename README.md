@@ -60,7 +60,7 @@ Akses URL tersebut di browser untuk melihat proyek Anda online.
 
 ## Contoh File Proyek
 
-Untuk membantu Anda memulai, berikut adalah contoh proyek HTML, CSS, dan JavaScript yang dapat Anda upload ke repository Anda:
+Untuk membantu Anda memulai, berikut adalah contoh proyek HTML, CSS, dan JavaScript yang dapat Anda upload ke repository Anda. Web profil ini berjudul "Ibal Bojay."
 
 ### **File `index.html`**
 ```html
@@ -69,57 +69,100 @@ Untuk membantu Anda memulai, berikut adalah contoh proyek HTML, CSS, dan JavaScr
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Control Project</title>
+  <title>Profil Ibal Bojay</title>
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="container">
-    <h1 class="text-center my-5">Kontrol Proyek</h1>
-    <div class="row">
-      <div class="col-md-6 mx-auto">
-        <button id="controlBtn" class="btn btn-primary btn-block">Klik untuk Kontrol</button>
-        <div id="status" class="alert alert-info mt-3" role="alert">
-          Status: Tidak Aktif
-        </div>
-      </div>
+  <div class="container text-center">
+    <h1 class="my-5">Selamat datang di Profil Ibal Bojay</h1>
+    <div class="profile-img">
+      <img src="https://via.placeholder.com/200" alt="Ibal Bojay" class="img-fluid rounded-circle">
     </div>
+    <p class="mt-4">Halo, saya Ibal Bojay. Saya seorang pengembang web dan penggemar teknologi. Saya suka mempelajari hal-hal baru dan berbagi pengetahuan tentang pengembangan web.</p>
+    <p>Hubungi saya di:</p>
+    <ul>
+      <li><strong>Email:</strong> ibal@example.com</li>
+      <li><strong>GitHub:</strong> <a href="https://github.com/ibalbojay" target="_blank">github.com/ibalbojay</a></li>
+    </ul>
   </div>
 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-  <script src="script.js"></script>
 </body>
 </html>
 
 ---
 
-### **File `style.css`**
-```css
-body {
-  background-color: #f8f9fa;
-  font-family: Arial, sans-serif;
-}
+## Contoh File Proyek
 
-#status {
-  font-size: 1.2em;
-  font-weight: bold;
-}
+Untuk membantu Anda memulai, berikut adalah contoh proyek HTML, CSS, dan JavaScript yang dapat Anda upload ke repository Anda. Web profil ini berjudul "Ibal Bojay."
+
+### **File `index.html`**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profil Ibal Bojay</title>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container text-center">
+    <h1 class="my-5">Selamat datang di Profil Ibal Bojay</h1>
+    <div class="profile-img">
+      <img src="https://via.placeholder.com/200" alt="Ibal Bojay" class="img-fluid rounded-circle">
+    </div>
+    <p class="mt-4">Halo, saya Ibal Bojay. Saya seorang pengembang web dan penggemar teknologi. Saya suka mempelajari hal-hal baru dan berbagi pengetahuan tentang pengembangan web.</p>
+    <p>Hubungi saya di:</p>
+    <ul>
+      <li><strong>Email:</strong> ibal@example.com</li>
+      <li><strong>GitHub:</strong> <a href="https://github.com/ibalbojay" target="_blank">github.com/ibalbojay</a></li>
+    </ul>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
 
 ---
 
-### **File `script.js`**
-```js
-document.getElementById('controlBtn').addEventListener('click', function() {
-  var statusDiv = document.getElementById('status');
-  if (statusDiv.textContent.includes('Tidak Aktif')) {
-    statusDiv.textContent = 'Status: Aktif';
-    statusDiv.classList.remove('alert-info');
-    statusDiv.classList.add('alert-success');
-  } else {
-    statusDiv.textContent = 'Status: Tidak Aktif';
-    statusDiv.classList.remove('alert-success');
-    statusDiv.classList.add('alert-info');
-  }
-});
+## Contoh File Proyek
+
+Untuk membantu Anda memulai, berikut adalah contoh proyek HTML, CSS, dan JavaScript yang dapat Anda upload ke repository Anda. Web profil ini berjudul "Ibal Bojay."
+
+### **File `index.html`**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profil Ibal Bojay</title>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container text-center">
+    <h1 class="my-5">Selamat datang di Profil Ibal Bojay</h1>
+    <div class="profile-img">
+      <img src="https://via.placeholder.com/200" alt="Ibal Bojay" class="img-fluid rounded-circle">
+    </div>
+    <p class="mt-4">Halo, saya Ibal Bojay. Saya seorang pengembang web dan penggemar teknologi. Saya suka mempelajari hal-hal baru dan berbagi pengetahuan tentang pengembangan web.</p>
+    <p>Hubungi saya di:</p>
+    <ul>
+      <li><strong>Email:</strong> ibal@example.com</li>
+      <li><strong>GitHub:</strong> <a href="https://github.com/ibalbojay" target="_blank">github.com/ibalbojay</a></li>
+    </ul>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
