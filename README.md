@@ -93,8 +93,6 @@ Untuk membantu Anda memulai, berikut adalah contoh proyek HTML, CSS, dan JavaScr
 </body>
 </html>
 
----
-
 ## Contoh File Proyek
 
 Untuk membantu Anda memulai, berikut adalah contoh proyek HTML, CSS, dan JavaScript yang dapat Anda upload ke repository Anda. Web profil ini berjudul "Ibal Bojay."
@@ -129,8 +127,6 @@ Untuk membantu Anda memulai, berikut adalah contoh proyek HTML, CSS, dan JavaScr
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-
----
 
 ## Contoh File Proyek
 
