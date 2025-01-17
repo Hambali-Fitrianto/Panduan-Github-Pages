@@ -93,8 +93,7 @@ Untuk membantu Anda memulai, berikut adalah contoh proyek HTML, CSS, dan JavaScr
 </body>
 </html>
 
----
-
+### **File `style.css`**
 ```css
 body {
   background-color: #f8f9fa;
@@ -106,8 +105,7 @@ body {
   font-weight: bold;
 }
 
----
-
+### **File `script.js`**
 ```js
 document.getElementById('controlBtn').addEventListener('click', function() {
   var statusDiv = document.getElementById('status');
