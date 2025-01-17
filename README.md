@@ -93,6 +93,8 @@ Untuk membantu Anda memulai, berikut adalah contoh proyek HTML, CSS, dan JavaScr
 </body>
 </html>
 
+---
+
 ### **File `style.css`**
 ```css
 body {
@@ -104,6 +106,8 @@ body {
   font-size: 1.2em;
   font-weight: bold;
 }
+
+---
 
 ### **File `script.js`**
 ```js
